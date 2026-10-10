@@ -1,0 +1,3 @@
+app-password.txt
+*.tmp
+.staticrypt.json
